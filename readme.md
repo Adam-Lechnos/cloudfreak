@@ -10,6 +10,9 @@ Deploy this sample application to Pivotal Web Services:
 ## Helm-Charts Continuous Deployment Counterpart
 * https://github.com/Adam-Lechnos/petclinic
 
+## Logging Aggregation and Visualization with Elasticsearch, FluentD, and Kibana
+* https://github.com/Adam-Lechnos/elasticsearch-fluentd-kibana-eks
+
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
 
